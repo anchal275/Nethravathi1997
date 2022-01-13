@@ -1,6 +1,6 @@
 Hello, 👋 I,m Nethravathi T
 
-##About Me
+###About Me
 
 **Passionate and aspiring full-stack developer with aspecialization in MERN stack. Self-motivated andcurious, would like to be associated with a progressiveorganization that would foster creative skills and helps to grow along with the company.
 
@@ -9,5 +9,5 @@ Hello, 👋 I,m Nethravathi T
 - 👯 I’m looking to collaborate on Good Thoughts
 - 💬 Ask me about Coding...
 - 📫 How to reach me: tnethravathi7@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Know more:[My Portfolio](https://repo-portfolio-djqm0fuxr-nethravathi1997.vercel.app/)
 

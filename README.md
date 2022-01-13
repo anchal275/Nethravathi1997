@@ -1,7 +1,7 @@
-### Hi there 👋
+Hello, 👋 I,m Nethravathi T
 
 <!--
-**Nethravathi1997/Nethravathi1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Passionate and aspiring full-stack developer with aspecialization in MERN stack. Self-motivated andcurious, would like to be associated with a progressiveorganization that would foster creative skills and helpsto grow along with the company.
 
 Here are some ideas to get you started:
 

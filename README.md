@@ -13,4 +13,4 @@ Passionate and aspiring full-stack developer with aspecialization in MERN stack.
 
 ### Tech-Stack
 
-### HTML | CSS | JavaScript | Java | Express | MongoDB | Mongoose | React | redux
+##### HTML | CSS | JavaScript | Java | Express | MongoDB | Mongoose | React | redux

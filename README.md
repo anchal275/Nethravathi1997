@@ -11,6 +11,8 @@ Passionate and aspiring full-stack developer with aspecialization in MERN stack.
 - 📫 How to reach me: tnethravathi7@gmail.com
 - ⚡ Know more: [My Portfolio](https://nethra-oon7mwb6e-nethravathi1997.vercel.app/)
 - ⚡ Know more: [My Linkden](https://www.linkedin.com/in/nethravathit/)
+- 👯 Interested in coding....
+- 👯 Self Motivated
 
 ### Tech-Stack
 

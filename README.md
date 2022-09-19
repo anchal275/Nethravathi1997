@@ -8,7 +8,7 @@ Aspiring full-stack developer with specialization in MERN stack. Self-motivated 
 - 👯 I’m looking to collaborate on Good Thoughts
 - 💬 Ask me about Coding...
 - 📫 How to reach me: tnethravathi7@gmail.com
-- ⚡ Know more: [My Portfolio](https://nethra-oon7mwb6e-nethravathi1997.vercel.app/)
+- ⚡ Know more: [My Portfolio](https://anchal275.github.io/)
 - ⚡ Know more: [My Linkden](https://www.linkedin.com/in/nethravathit/)
 - 👯 Interested in coding....
 - 👯 Self Motivated
